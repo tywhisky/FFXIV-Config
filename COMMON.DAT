@@ -284,7 +284,7 @@ CrossMainHelp	1
 HousingLocatePreview	1
 Log	0
 LogTell	0
-LogFontSize	19
+LogFontSize	20
 LogTabName2	剧情
 LogTabName3	
 LogTabFilter0	0
@@ -344,19 +344,19 @@ LogRecastActionErrDisp	1
 LogPermeationRate	50
 LogFontSizeForm	20
 LogItemLinkEnableType	1
-LogFontSizeLog2	19
+LogFontSizeLog2	20
 LogTimeDispLog2	0
 LogPermeationRateLog2	50
-LogFontSizeLog3	19
+LogFontSizeLog3	20
 LogTimeDispLog3	0
 LogPermeationRateLog3	50
-LogFontSizeLog4	19
+LogFontSizeLog4	20
 LogTimeDispLog4	0
 LogPermeationRateLog4	50
 LogFlyingHeightMaxErrDisp	1
 LogCrossWorldName	1
 LogDragResize	1
-ChatType	6
+ChatType	1
 ShopSell	0
 ColorSay	16316664
 ColorShout	16754278
