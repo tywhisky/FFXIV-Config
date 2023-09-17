@@ -1,6 +1,6 @@
 BattleEffectSelf	0
-BattleEffectParty	0
-BattleEffectOther	0
+BattleEffectParty	1
+BattleEffectOther	1
 BattleEffectPvPEnemyPc	0
 
 <GamePad Settings>
@@ -57,12 +57,12 @@ GBarrelDisp	1
 EgiMirageTypeGaruda	0
 EgiMirageTypeTitan	0
 EgiMirageTypeIfrit	0
-BahamutSize	2
+BahamutSize	0
 PetMirageTypeCarbuncleSupport	0
-PhoenixSize	2
-GarudaSize	2
-TitanSize	2
-IfritSize	2
+PhoenixSize	0
+GarudaSize	0
+TitanSize	0
+IfritSize	0
 TimeMode	2
 Time12	0
 TimeEorzea	0
@@ -166,8 +166,8 @@ PlateType	1
 PlateDispHPBar	1
 PlateDisableMaxHPBar	1
 NamePlateHpSizeType	1
-NamePlateColorSelf	4294901736
-NamePlateEdgeSelf	4288172040
+NamePlateColorSelf	4293453884
+NamePlateEdgeSelf	4283256084
 NamePlateDispTypeSelf	0
 NamePlateNameTypeSelf	0
 NamePlateHpTypeSelf	2
@@ -356,7 +356,7 @@ LogPermeationRateLog4	50
 LogFlyingHeightMaxErrDisp	1
 LogCrossWorldName	1
 LogDragResize	1
-ChatType	1
+ChatType	18
 ShopSell	0
 ColorSay	16316664
 ColorShout	16754278
@@ -443,7 +443,7 @@ BuffDispType	0
 ContentsFinderListSortType	0
 ContentsFinderSupplyEnable	0
 EnemyListCastbarEnable	1
-AchievementAppealLoginDisp	0
+AchievementAppealLoginDisp	1
 ItemInventryWindowSizeType	0
 ItemInventryRetainerWindowSizeType	0
 BattleTalkShowFace	1
