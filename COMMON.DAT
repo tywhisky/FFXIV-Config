@@ -32,9 +32,9 @@ EventCameraAutoControl	1
 CameraLookBlinkType	0
 IdleEmoteTime	5
 IdleEmoteRandomType	0
-CutsceneSkipIsShip	0
-CutsceneSkipIsContents	0
-CutsceneSkipIsHousing	0
+CutsceneSkipIsShip	1
+CutsceneSkipIsContents	1
+CutsceneSkipIsHousing	1
 PetTargetOffInCombat	1
 GroundTargetFPSPosX	50000
 GroundTargetFPSPosY	50000
@@ -63,6 +63,7 @@ PhoenixSize	0
 GarudaSize	0
 TitanSize	0
 IfritSize	0
+PetMirageTypeFairy	0
 TimeMode	2
 Time12	0
 TimeEorzea	0
@@ -161,6 +162,8 @@ HotbarXHBAlphaDefault	0
 HotbarXHBAlphaActiveSet	0
 HotbarXHBAlphaInactiveSet	0
 HotbarWXHBInputOnce	0
+ExHotbarChangeHotbar1IsFashion	1
+HotbarCrossUseExDirectionAutoSwitch	1
 IdlingCameraSwitchType	1
 PlateType	1
 PlateDispHPBar	1
@@ -269,6 +272,18 @@ NamePlateDispTypeFeastPet	0
 NamePlateHpTypeFeastPet	2
 NamePlateNameTitleTypeFeast	1
 NamePlateDispSize	0
+NamePlateDispJobIcon	0
+NamePlateDispJobIconType	0
+NamePlateSetRoleColor	0
+NamePlateColorTank	4294942528
+NamePlateEdgeTank	4282392608
+NamePlateColorHealer	4284545152
+NamePlateEdgeHealer	4278342656
+NamePlateColorDps	4286545919
+NamePlateEdgeDps	4278190220
+NamePlateColorOtherClass	4291611852
+NamePlateEdgeOtherClass	4278190080
+NamePlateDispWorldTravel	1
 ActiveInfo	0
 PartyList	0
 PartyListStatus	5
@@ -286,7 +301,7 @@ Log	0
 LogTell	0
 LogFontSize	20
 LogTabName2	剧情
-LogTabName3	
+LogTabName3	部队
 LogTabFilter0	0
 LogTabFilter1	1
 LogTabFilter2	2
@@ -356,7 +371,14 @@ LogPermeationRateLog4	50
 LogFlyingHeightMaxErrDisp	1
 LogCrossWorldName	1
 LogDragResize	1
-ChatType	18
+LogNameIconType	0
+LogDispClassJobName	0
+LogSetRoleColor	0
+LogColorRoleTank	4278223103
+LogColorRoleHealer	4286642272
+LogColorRoleDPS	4294934399
+LogColorOtherClass	4291611852
+ChatType	2
 ShopSell	0
 ColorSay	16316664
 ColorShout	16754278
@@ -416,6 +438,7 @@ ItemSortItemLevel	1
 ItemSortItemStack	1
 ItemSortTidyingType	0
 ItemNoArmoryMaskOff	0
+ItemInventryStoreEnd	0
 InfoSettingDispWorldNameType	1
 TargetNamePlateNameType	0
 FocusTargetNamePlateNameType	0
@@ -444,8 +467,8 @@ ContentsFinderListSortType	0
 ContentsFinderSupplyEnable	0
 EnemyListCastbarEnable	1
 AchievementAppealLoginDisp	1
-ItemInventryWindowSizeType	0
-ItemInventryRetainerWindowSizeType	0
+ItemInventryWindowSizeType	1
+ItemInventryRetainerWindowSizeType	1
 BattleTalkShowFace	1
 BannerContentsDispType	1
 BannerContentsNotice	1
